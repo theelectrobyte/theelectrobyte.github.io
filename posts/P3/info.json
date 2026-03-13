@@ -1,0 +1,8 @@
+{
+"title":"HC-05: Simple Bluetooth for Arduino Projects",
+"description":"The HC-05 Bluetooth module is a simple and affordable way to add wireless communication to microcontroller projects. By connecting it to platforms like Arduino, you can control devices directly from a smartphone or another Bluetooth device.",
+"links":[
+ {"name":"Buy from Amazon","url":"https://example.com"},
+ {"name":"Buy from Flipkart","url":"https://example.com"}
+]
+}
