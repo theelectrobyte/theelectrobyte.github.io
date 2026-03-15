@@ -1,0 +1,8 @@
+{
+"title":"HC-SR04: The Popular Ultrasonic Distance Sensor",
+"text":"The HC-SR04 ultrasonic sensor is one of the most popular modules used to measure distance in electronics projects. It works by sending ultrasonic waves and calculating the time it takes for the echo to return.\n\nIn this post, you'll learn what the HC-SR04 sensor is, how it works, the function of each pin, and why it is widely used in Arduino and robotics projects.",
+"links":[
+ {"name":"Buy from Amazon","url":"https://example.com"},
+ {"name":"Buy from Flipkart","url":"https://example.com"}
+]
+}
