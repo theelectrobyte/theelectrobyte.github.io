@@ -1,0 +1,8 @@
+{
+"title":"PIR Motion Sensor Explained",
+"description":"The PIR (Passive Infrared) motion sensor is widely used to detect human movement in electronics projects. It works by sensing changes in infrared radiation, making it ideal for security systems, automatic lighting, and smart devices.\n\nIn this post, you'll learn what a PIR sensor is, how it works, the function of each pin, and why it is so popular in Arduino and IoT projects.",
+"links":[
+ {"name":"Buy from Amazon","url":"https://example.com"},
+ {"name":"Buy from Flipkart","url":"https://example.com"}
+]
+}
