@@ -1,0 +1,8 @@
+{
+"title":"L298N Motor Driver Explained",
+"description":"Motors can’t be powered directly from microcontrollers—and that’s where motor drivers come in. The L298N motor driver module allows you to control the speed and direction of DC motors safely and efficiently.\n\nIn this post, you'll learn why motor drivers are necessary, how the L298N works, a clear explanation of its pins, and some common mistakes beginners often make while using it.",
+"links":[
+ {"name":"Buy from Amazon","url":"https://example.com"},
+ {"name":"Buy from Flipkart","url":"https://example.com"}
+]
+}
