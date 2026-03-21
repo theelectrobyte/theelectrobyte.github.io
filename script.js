@@ -1,4 +1,4 @@
-const posts = ["P6", "P5", "P4", "P3", "P2", "P1"]
+const posts = ["P7", "P6", "P5", "P4", "P3", "P2", "P1"]
 
 const grid = document.getElementById("postGrid")
 const overlay = document.getElementById("overlay")
