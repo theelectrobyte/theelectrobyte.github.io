@@ -1,0 +1,8 @@
+{
+"title":"ESP32 Explained: The Powerful IoT Board",
+"description":"The ESP32 is one of the most powerful and versatile microcontroller boards used in modern electronics projects. With built-in WiFi and Bluetooth, high processing power, and a wide range of GPIOs, it enables everything from simple DIY builds to advanced IoT systems.\n\nIn this post, you'll learn why the ESP32 is so popular, how its pins and power system work, what you can build with it, and some practical tips that beginners often overlook.",
+"links":[
+ {"name":"Buy from Amazon","url":"https://example.com"},
+ {"name":"Buy from Flipkart","url":"https://example.com"}
+]
+}
